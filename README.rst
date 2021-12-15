@@ -1,0 +1,1 @@
+[![Python package](https://github.com/Elena-Mikitenko/hexlet-pytest/actions/workflows/python-package.yml/badge.svg)](https://github.com/Elena-Mikitenko/hexlet-pytest/actions/workflows/python-package.yml)
